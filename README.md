@@ -1,5 +1,5 @@
 # machineLearning
-Includes projects and code from my machine learning course.
+Includes project code from my machine learning course.
 
 ### Irish Language Model
 In the Irish language model I presented an analysis of various machine learning methods used for modeling the use of diacritics in the Irish language. Irish Gaelic has one diacritic mark or long accent which indicates that the vowel is to be pronounced long. Words with or without a long accented vowel take on completely different meanings, for example:
